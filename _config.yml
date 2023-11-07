@@ -9,7 +9,7 @@ last_name: Sarker Joy
 pronouns: he/him
 email: saman.sarker.joy@gmail.com
 description: > # the ">" symbol means to ignore newlines until "footer_text:"
-  AI and Mathematics Researcher at the University of Oxford
+  Computer Science Graduate
 footer_text: >
   Powered by <a href="https://jekyllrb.com/" target="_blank">Jekyll</a> with <a href="https://github.com/alshedivat/al-folio">al-folio</a> theme.
   Hosted by <a href="https://pages.github.com/" target="_blank">GitHub Pages</a>.
@@ -94,7 +94,7 @@ pinterest_id: # your pinterest id
 unsplash_id: # your unsplash id
 instagram_id: # your instagram id
 facebook_id: # your facebook id
-youtube_id: # your youtube channel id (youtube.com/@<youtube_id>)
+youtube_id: equalcoding # your youtube channel id (youtube.com/@<youtube_id>)
 discord_id: # your discord id (18-digit unique numerical identifier)
 
 contact_note: Best way to reach me is by mail!
