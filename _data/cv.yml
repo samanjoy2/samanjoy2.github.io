@@ -5,6 +5,8 @@
       value: Saman Sarker Joy
     - name: Languages
       value: English, Bengali
+    - name: Lives In
+      value: Dhaka, Bangladesh
 
 - title: Education
   type: time_table
@@ -13,7 +15,7 @@
       institution: BRAC University
       year: 2020-2023
       description:
-        - "Achieved Highest Distinction | Inlcuded in VC's List"
+        - "Achieved Highest Distinction, Included in VC's List"
 
 - title: Experience
   type: time_table
@@ -25,6 +27,14 @@
         - Gave 12+3 = 15 hours of live consultations and lab classes per week.
         - Checked assignment scripts and lab homeworks and assisted faculties.
         - Gave consultations to students and assisted faculties with their works.
+
+- title: Technical Skills
+  type: list
+  contents:
+    - <u>Programming Languages/Tools:</u> Python, C++, Java, LATEX, Assembly Language.
+    - <u>Frameworks:</u> TensorFlow, PyTorch, Transformers.
+    - <u>Interested In:</u> Natural Language Processing, Neural Networks, Machine Learning.
+
 
 - title: Honors and Awards
   type: time_table
@@ -44,7 +54,7 @@
         - Honorable Mentions in Make an Educative Tutorial Competition
 
 
-# - title: Academic Interests
+# - title: Interests
 #   type: nested_list
 #   contents:
 #     - title: Topic 1.
@@ -55,8 +65,3 @@
 #       items:
 #         - Description 1.
 #         - Description 2.
-
-# - title: Other Interests
-#   type: list
-#   contents:
-#     - <u>Hobbies:</u> Hobby 1, Hobby 2, etc.
