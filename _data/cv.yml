@@ -2,91 +2,51 @@
   type: map
   contents:
     - name: Full Name
-      value: Sam Adam-Day
+      value: Saman Sarker Joy
     - name: Languages
-      value: English, Spanish, Welsh
+      value: English, Bengali
 
 - title: Education
   type: time_table
   contents:
-    - title: DPhil in Mathematics
-      institution: University of Oxford
-      year: 2019–2023
+    - title: Bachelor of Science in Computer Science and Engineering
+      institution: BRAC University
+      year: 2020–2023
       description:
-        - "Area of specialism: logic/set theory."
-    - title: MSc Master of Logic
-      institution: Institute for Logic, Language and Computation, University of Amsterdam
-      year: 2017–2019
-      description:
-        - "Cum Laude; GPA: 9.1/10."
-    - title: MMath Master of Mathematics
-      institution: University of Oxford
-      year: 2012–2016
-      description:
-        - "Master's part: First Class 92%; top in year."
-        - "Bachelor's part: First Class 83%."
+        - "Achieved Highest Distinction | Inlcuded in VC's List"
 
 - title: Experience
   type: time_table
   contents:
-    - title: Research Associate, Department of Computer Science, University of Oxford
-      year: 2023-(2024)
+    - title: Student Tutor (ST/TA), Department of Computer Science and Engineering, BRAC University
+      year: 2022-2023
       description:
         - Postdoctoral researcher investigating connections between logic and machine learning.
-    - title: Team lead, OxAI Safety Hub Labs
-      year: 2022
-      description:
-        - Research internship performing active learning using large language models.
-        - Lead team of investigators, managing upskilling and development process.
-        - Contributed over 10,000 lines of Python code, leveraging PyTorch.
-        - Ran over 500 experiments on GPUs.
-        - Involved in ongoing research extending the results.
-
-    - title: "Ongoing AI safety collaborations"
-      year: 2022–
-      description:
-        - Verification games and open source game theory.
-        - Inductive bias of neural networks.
-        
-    - title: "PhD research: logic, real trees and first-order Kripke semantics"
-      institution: University of Oxford
-      year: 2020–
-      description:
-        - Resolved open problem from 2004 in geometric group theory.
-
-    - title: "MSc thesis: polyhedral semantics for modal logic"
-      institution: Institute for Logic, Language and Computation, University of Amsterdam
-      year: 2018–
-      description:
-        - Collaborated on project using polyhedra to interpret modal formulas.
-        - "Paper accepted: <a href='https://arxiv.org/abs/2112.07518'>arXiv:2112.07518</a>."
-        - Second paper in preparation.
-
-    - title: Website and game development
-      year: 2004–
-      description:
-        - Self-taught game programming at age 11.
-        - Developed websites in Python and PHP, working directly with clients.
-        - Programmed with Python and Django, as well as PHP. 
-        - "Examples: <a href='https://tunelines.com/'>tunelines.com</a> and <a href='https://alevelnotes.com/'>alevelnotes.com</a>."
-        - Maintained and secured websites receiving 1,000,000s of monthly visitors.
+        - Courses Taught: CSE 111: Programming Language-II.
+        - Taught students about Data Structures, Elements of Language Theory, Structured Programming Concepts, Object-oriented Programming (OOP).
+        - Gave 12+3 = 15 hours of live consultations and lab classes per week.
+        - Checked assignment scripts and lab homeworks and assisted faculties.
+        - Gave consultations to students and assisted faculties with their works.
 
 - title: Honors and Awards
   type: time_table
   contents:
-    - year: 2019
+    - year: 2023
       items: 
-        - EPSRC Excellence Award. Doctorate scholarship.
-    - year: 2017
+        - Graduated with Highest Distinction: Awarded to candidates whose CGPA is 3.80 or higher
+        - Included in VC’s List for outstanding academic performance that particular semester for 7 out 11 semesters
+    - year: 2022
       items: 
-        - Amsterdam Science Talent Scholarship for MSc. One of five recipients.
-    - year: 2016
+        - 4th in BRACU Intra University Programming Contest - Division 2
+        - Top 14% in Pre-Assessment in Robi Datathon 2.0
+    - year: 2021
       items: 
-        - Gibbs Prize for "outstanding academic achievement" in final year of MMath.
+        - Merit Scholarship Based on Academic Results of B.Sc. (2021 - 2023)
+    - year: 2020
+      items: 
+        - Honorable Mentions in Make an Educative Tutorial Competition
         - Gibbs Dissertation Prize for MMath dissertation.
-    - year: 2015
-      items:
-        - EPSRC Vacation Bursary. Support for summer research project.
+
 
 # - title: Academic Interests
 #   type: nested_list
