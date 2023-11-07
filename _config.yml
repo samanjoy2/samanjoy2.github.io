@@ -248,8 +248,7 @@ display_tags: # this tags will be dispalyed on the front page of your blog
 scholar:
 
   last_name: [Joy]
-  middle_name: [Sarker]
-  first_name: [Saman]
+  first_name: [Saman Sarker]
 
   style: apa
   locale: en

@@ -28,12 +28,16 @@
         - Checked assignment scripts and lab homeworks and assisted faculties.
         - Gave consultations to students and assisted faculties with their works.
 
-- title: Technical Skills
-  type: list
+
+title: Technical Skills
+  type: map
   contents:
-    - <u>Programming Languages/Tools:</u> Python, C++, Java, LATEX, Assembly Language.
-    - <u>Frameworks:</u> TensorFlow, PyTorch, Transformers.
-    - <u>Interested In:</u> Natural Language Processing, Neural Networks, Machine Learning.
+    - name: Programming Languages/Tools
+      value: Python, C++, Java, LATEX, Assembly Language.
+    - name: Frameworks
+      value: TensorFlow, PyTorch, Transformers.
+    - name: Interested In
+      value: Natural Language Processing, Neural Networks, Machine Learning.
 
 
 - title: Honors and Awards
