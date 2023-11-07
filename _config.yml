@@ -248,6 +248,7 @@ display_tags: # this tags will be dispalyed on the front page of your blog
 scholar:
 
   last_name: [Joy]
+  moddle_name: []
   first_name: [Saman Sarker]
 
   style: apa
