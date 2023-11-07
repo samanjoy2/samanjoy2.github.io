@@ -17,10 +17,11 @@
       description:
         - "Achieved Highest Distinction"
         - "Included in VC's List"
-        - "Thesis: Research on the latest trends in Bangla Named Entity Recognition"
-        items: 
-            - "Supervisor: Dr. Farig Yousuf Sadeque"
-            - "Grade: A+""
+        - items:
+          - title: "Thesis: Research on the latest trends in Bangla Named Entity Recognition"
+            contents:
+              - "Supervisor: Dr. Farig Yousuf Sadeque"
+              - "Grade: A+"
 
 
 - title: Experience
