@@ -6,7 +6,7 @@ title: blank # the website title (if blank, full name will be used instead)
 first_name: Saman
 middle_name: 
 last_name: Sarker Joy
-pronouns: he/him
+pronouns:
 email: saman.sarker.joy@gmail.com
 description: > # the ">" symbol means to ignore newlines until "footer_text:"
   Computer Science Graduate
