@@ -1,10 +1,10 @@
 ---
 layout: page
-title: Tunelines
-description: A project to collect and map traditional toponymic tunes
-img: assets/img/tunelines-screenshot.png
+title: Bangla Clickbait Detection
+description: A project to detect Bangla Clickbait with Transfromers Model and Explainable Ai
+img: assets/img/aaa.gif
 importance: 1
 category: Websites
 ---
 
-Tunelines is a project by musician Helen Adam to collect toponymic tunes: songs named after places. I built the website [tunelines.com](https://tunelines.com) using Python and Django, which features a responsive design and a dynamic, searchable database of tunes.
+Bangla Clickbait Detection with Transfromers Model and Explainable Ai. [Implemetation](https://banglaclickbert.streamlit.app/). [The code on GitHub](https://github.com/samanjoy2/banglaclickbert)
