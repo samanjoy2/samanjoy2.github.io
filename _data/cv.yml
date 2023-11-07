@@ -17,11 +17,8 @@
       description:
         - "Achieved Highest Distinction"
         - "Included in VC's List"
-        - items:
-          - title: "Thesis: Research on the latest trends in Bangla Named Entity Recognition"
-            contents:
-              - "Supervisor: Dr. Farig Yousuf Sadeque"
-              - "Grade: A+"
+        - "Thesis Title: Research on the latest trends in Bangla Named Entity Recognition"
+        - "Thesis Supervisor: Dr. Farig Yousuf Sadeque"
 
 
 - title: Experience
@@ -51,7 +48,8 @@
   type: time_table
   contents:
     - year: 2023
-      items: 
+      items:
+        - "Graduated with Highest Distinction: Awarded to candidates whose CGPA is 3.80 or higher"
         - Included in VCs List for outstanding academic performance that particular semester for 7 out 11 semesters
     - year: 2022
       items: 
