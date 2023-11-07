@@ -11,7 +11,7 @@
   contents:
     - title: Bachelor of Science in Computer Science and Engineering
       institution: BRAC University
-      year: 2020–2023
+      year: 2020-2023
       description:
         - "Achieved Highest Distinction | Inlcuded in VC's List"
 
@@ -22,7 +22,6 @@
       year: 2022-2023
       description:
         - Postdoctoral researcher investigating connections between logic and machine learning.
-        - Courses Taught: CSE 111: Programming Language-II.
         - Taught students about Data Structures, Elements of Language Theory, Structured Programming Concepts, Object-oriented Programming (OOP).
         - Gave 12+3 = 15 hours of live consultations and lab classes per week.
         - Checked assignment scripts and lab homeworks and assisted faculties.
@@ -33,8 +32,7 @@
   contents:
     - year: 2023
       items: 
-        - Graduated with Highest Distinction: Awarded to candidates whose CGPA is 3.80 or higher
-        - Included in VC’s List for outstanding academic performance that particular semester for 7 out 11 semesters
+        - Included in VCs List for outstanding academic performance that particular semester for 7 out 11 semesters
     - year: 2022
       items: 
         - 4th in BRACU Intra University Programming Contest - Division 2
