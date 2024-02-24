@@ -1,7 +1,7 @@
 ---
 layout: post
-date: 2023-11-14 09:49:00+0000
+date: 2024-01-30 09:49:00+0000
 inline: true
 ---
 
-Submitted my paper [Gazetteer-Enhanced Bangla Named Entity Recognition with BanglaBERT Semantic Embeddings K-Means-Infused CRF Model](https://) at [PAKDD 2024 Conference](https://pakdd2024.org/).
+My paper [Gazetteer-Enhanced Bangla Named Entity Recognition with BanglaBERT Semantic Embeddings K-Means-Infused CRF Model](https://arxiv.org/abs/2401.17206) is available as a prepreint at [arXiv](https://arxiv.org/abs/2401.17206).
