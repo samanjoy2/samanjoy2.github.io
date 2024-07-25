@@ -13,7 +13,7 @@
   contents:
     - title: Bachelor of Science in Computer Science and Engineering
       institution: BRAC University
-      year: 01/2020-10/2023
+      year: 2020-2023
       description:
         - "Achieved Highest Distinction"
         - "Included in VC's List"
@@ -25,14 +25,14 @@
   type: time_table
   contents:
     - title: Research Assistant, Optics and Photonics Research Laboratory, BRAC University
-    year: 07/2024-Present
+    year: 2024-Present
     description:
       - Conductedliterature reviews on inverse design and deep learning advancements.
       - Designed, implemented, and optimized algorithms for research tasks.
       - Analyzed research results and contributed to publications and presentations.
 
     - title: Undergraduate Teaching Assistant, Department of Computer Science and Engineering, BRAC University
-      year: 04/2022-04/2023
+      year: 2022-2023
       description:
         - Taught students about Data Structures, Elements of Language Theory, Structured Programming Concepts, Object-oriented Programming (OOP).
         - Gave 12+3 = 15 hours of live consultations and lab classes per week.
