@@ -24,7 +24,17 @@
 - title: Experience
   type: time_table
   contents:
-    - title: Student Tutor (ST/TA), Department of Computer Science and Engineering, BRAC University
+    - title: Undergraduate Teaching Assistant, Department of Computer Science and Engineering, BRAC University
+      year: 2022-2023
+      description:
+        - Taught students about Data Structures, Elements of Language Theory, Structured Programming Concepts, Object-oriented Programming (OOP).
+        - Gave 12+3 = 15 hours of live consultations and lab classes per week.
+        - Checked assignment scripts and lab homeworks and assisted faculties.
+        - Gave consultations to students and assisted faculties with their works.
+
+    type: time_table
+    contents:
+    - title: Undergraduate Teaching Assistant, Department of Computer Science and Engineering, BRAC University
       year: 2022-2023
       description:
         - Taught students about Data Structures, Elements of Language Theory, Structured Programming Concepts, Object-oriented Programming (OOP).
